@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">profil</string>
-
-
+    <string name="followers">FOLLOWERS</string>
+    <string name="follow">FOLLOWING</string>
+    <string name="age">AGE</string>
+    <string name="address">ADDRESS</string>
+    <string name="email">EMAIL</string>
+    <string name="phone">PHONE</string>
 </resources>

@@ -62,15 +62,6 @@
             android:textColor="@color/address"
             />
 
-        <ImageView
-            android:layout_width="40dp"
-            android:layout_height="40dp"
-            android:layout_alignParentRight="true"
-            android:layout_marginRight="15dp"
-            android:layout_marginTop="15dp"
-            android:src="@drawable/ic_settings"
-            android:adjustViewBounds="true"
-            android:scaleType="centerInside"/>
 
     </RelativeLayout>
 
@@ -113,12 +104,11 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="FOLLOWER"
+                    android:text="@string/followers"
                     android:textAllCaps="true"
                     android:textSize="13sp"
                     android:fontFamily="sans-serif-light"
                     android:textColor="@color/white"
-
                     />
 
 
@@ -159,7 +149,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="FOLLOWING"
+                    android:text="@string/follow"
                     android:textAllCaps="true"
                     android:textSize="13sp"
                     android:fontFamily="sans-serif-light"
@@ -196,7 +186,7 @@
                     android:textColor="@color/headings"
                     android:textSize="13sp"
                     android:layout_marginTop="15dp"
-                    android:text="Email"/>
+                    android:text="@string/email"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -224,7 +214,7 @@
                     android:textColor="@color/headings"
                     android:textSize="13sp"
                     android:layout_marginTop="15dp"
-                    android:text="Phone"/>
+                    android:text="@string/phone"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -252,14 +242,14 @@
                     android:textColor="@color/headings"
                     android:textSize="13sp"
                     android:layout_marginTop="15dp"
-                    android:text="Instagram"/>
+                    android:text="@string/age"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="#000000"
                     android:textSize="18sp"
-                    android:text="abimanyu.28"/>
+                    android:text="21 Tahun"/>
 
                 <View
                     android:layout_width="match_parent"
@@ -282,14 +272,14 @@
                     android:textColor="@color/headings"
                     android:textSize="13sp"
                     android:layout_marginTop="15dp"
-                    android:text="Chesh Rush"/>
+                    android:text="@string/address"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="#000000"
                     android:textSize="18sp"
-                    android:text="DaisySunday"/>
+                    android:text="Kediri"/>
 
                 <View
                     android:layout_width="match_parent"

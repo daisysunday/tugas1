@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">profil</string>
+    <string name="follow">IKUTI</string>
+    <string name="followers">PENGIKUT</string>
+    <string name="age">UMUR</string>
+    <string name="address">ALAMAT</string>
+    <string name="email">PESAN</string>
+    <string name="phone">TELEPON</string>
+</resources>
