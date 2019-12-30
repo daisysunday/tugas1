@@ -21,6 +21,14 @@
             android:layout_centerHorizontal="true"
             android:background="@color/circleBorder">
 
+            <ImageView
+                android:id="@+id/ivSetting"
+                android:layout_width="682dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="300dp"
+                android:src="@drawable/setting" />
 
             <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/profile_image"

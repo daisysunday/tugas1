@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">profil</string>
+    <string name="action_setting">Setting</string>
+    <string name="action_setting_language">Language</string>
+    <string name="key_setting_locale">setting_locale</string>
+    <string name="label_setting_locale_summary">Change device language</string>
+    <string name="label_setting_locale_title">Change language</string>
     <string name="followers">FOLLOWERS</string>
     <string name="follow">FOLLOWING</string>
     <string name="age">AGE</string>
